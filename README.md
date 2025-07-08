@@ -1,5 +1,5 @@
 # Neural-Networks-Activation-Functions-Optimizers-and-Regularization
-Mini project to experiment with neural network architecture and evaluate how different activation functions, optimizers, and regularization techniques impact classification accuracy on the SKlearn Iris dataset. 
+Mini project to experiment with PyTorch neural network architecture and evaluate how different activation functions, optimizers, and regularization techniques impact classification accuracy on the SKlearn Iris dataset. 
 
 I. Use Pytorch to create a neural network classifier and experiment with the following architecture: 
 * Activation functions:
